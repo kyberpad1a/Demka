@@ -1,0 +1,62 @@
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\DEmka.exe.config
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\DEmka.exe
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\DEmka.pdb
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.csproj.AssemblyReference.cache
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.csproj.SuggestedBindingRedirects.cache
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\MainWindow.g.cs
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\App.g.cs
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka_MarkupCompile.cache
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka_MarkupCompile.lref
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\App.baml
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\MainWindow.baml
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.g.resources
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.Properties.Resources.resources
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.csproj.GenerateResource.cache
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.csproj.CoreCompileInputs.cache
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.exe
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.pdb
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\Style\BTNStyle.baml
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\Style\TextBoxStyle.baml
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\Authorization.g.cs
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\Authorization.baml
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\EntityFramework.dll
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\EntityFramework.xml
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\maikl\source\repos\DEmka\DEmka\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\DEmka.csproj.CopyComplete
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\Products.g.cs
+C:\Users\maikl\source\repos\DEmka\DEmka\obj\Debug\Products.baml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.csproj.AssemblyReference.cache
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.csproj.SuggestedBindingRedirects.cache
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\Style\BTNStyle.baml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\Style\TextBoxStyle.baml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\Authorization.g.cs
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\Products.g.cs
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\MainWindow.g.cs
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\App.g.cs
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka_MarkupCompile.cache
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka_MarkupCompile.lref
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.exe
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.pdb
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\DEmka.exe.config
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\DEmka.exe
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\DEmka.pdb
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\EntityFramework.dll
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\EntityFramework.xml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\App.baml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\Authorization.baml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\Products.baml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\MainWindow.baml
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.g.resources
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.Properties.Resources.resources
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.csproj.GenerateResource.cache
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.csproj.CoreCompileInputs.cache
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\DEmka.csproj.CopyComplete
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\PageEdit.g.cs
+C:\Users\maikl\source\repos\DEmka — копия\DEmka\obj\Debug\PageEdit.baml
